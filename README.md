@@ -1,1 +1,1 @@
-Multi-terminal_MMC-HVDC_Transmission_System
+Multi-terminal MMC-HVDC Transmission System
