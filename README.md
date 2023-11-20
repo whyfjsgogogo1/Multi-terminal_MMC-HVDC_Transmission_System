@@ -10,4 +10,4 @@ There are three wind farms, three voltage source converters (VSCs), two high vol
 
 For the detailed information, check the following paper and cite us by
 
-XXX
+- XXX
